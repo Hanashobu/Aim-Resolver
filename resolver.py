@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# AIM username->IP by Matthew Blankenship
+# AIM username->IP by Hanashobu
 # In order for this to work, you must be logged into the aim application
 # Only have a chat open with the username you are trying to resolve
 # This same concept works for any P2P chat application including Skype and ICQ
